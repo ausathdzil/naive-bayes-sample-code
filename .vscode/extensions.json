@@ -1,7 +1,6 @@
 {
     "recommendations": [
         "ms-python.python",
-        "ms-pyright.pyright",
         "ms-toolsai.jupyter",
         "charliermarsh.ruff",
         "astral-sh.ty",
