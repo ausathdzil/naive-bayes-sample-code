@@ -56,5 +56,4 @@ Core dependencies are defined in `pyproject.toml` and include:
 
 - `notebook`
 - `pandas`
-- `pandas-stubs`
 - `scikit-learn`
