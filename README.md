@@ -55,5 +55,6 @@ Open one of the notebooks under `notebooks/` (for example, `mushroom.ipynb`).
 Core dependencies are defined in `pyproject.toml` and include:
 
 - `notebook`
+- `openpyxl`
 - `pandas`
 - `scikit-learn`
